@@ -24,8 +24,8 @@ body:
         - Totem Party Popper
         - WhereWaterGo
         - Other
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: mod-version
     attributes:

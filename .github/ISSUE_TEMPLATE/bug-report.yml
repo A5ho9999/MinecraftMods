@@ -54,9 +54,9 @@ body:
       label: "Confirmation Checkboxes"
       options:
         - label: "I have confirmed that this issue can be reproduced with minimal setup (Not a large Modpack)"
+          required: true
         - label: "I am NOT using a 3rd Party Client Launcher (Feather Client, Luna Client, etc)"
-    validations:
-      required: true
+          required: true
   - type: textarea
     id: bug-description
     attributes:

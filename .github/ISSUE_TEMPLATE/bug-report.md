@@ -1,25 +1,86 @@
 ---
 name: Bug Report
 about: Create a report
-title: "[Mod] - Issue"
 labels: bug
 assignees: A5ho9999
-
 ---
 
-**Mod name**:
-**Mod Version**:
-**Fabric Version/Loader**:
-**Minecraft Version**:
-
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-How to get error
-
-**Expected behavior**
-What should of happened
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+body:
+  - type: dropdown
+    id: mod-name
+    attributes:
+      label: Mod name
+      options:
+        - Select Mod
+        - Brrrrock (Yeeterite)
+        - Brrrrock+ (Yeeterite Extras)
+        - CottageCraft Axolotls
+        - CottageCraft Blocks
+        - CottageCraft Festive Easter Eggs
+        - Explosive Party
+        - Glass Carpet
+        - Hopper The Hedgehog
+        - Loom GUI Remastered
+        - Party Spores (Dyeable Spore Blossoms)
+        - SpongeSucc (Lava Sponge)
+        - Stonecutter GUI Remastered
+        - Totem Party Popper
+        - WhereWaterGo
+        - Other
+      validations:
+        required: true
+  - type: input
+    id: mod-version
+    attributes:
+      label: Mod Version
+      placeholder: "eg. v1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: minecraft-version
+    attributes:
+      label: Minecraft Version
+      placeholder: "eg. 1.21.0"
+    validations:
+      required: true
+  - type: input
+    id: fabric-version
+    attributes:
+      label: Fabric Versions
+      description: "Please provide the Fabric Loader and Fabric API Versions"
+      placeholder: "eg. Fabric Loader: 0.15.11 | API: 0.97.11-1.20.1"
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: "Confirmation Checkboxes"
+      options:
+        - label: "I have confirmed that this issue can be reproduced with minimal setup (Not a large Modpack)"
+        - label: "I am NOT using a 3rd Party Client Launcher (Feather Client, Luna Client, etc)"
+    validations:
+      required: true
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: "Issue Description"
+      placeholder: "A description of the bug/issue"
+  - type: textarea
+    id: reproduced-steps
+    attributes:
+      label: "Steps to reproduce"
+      placeholder: |
+        1. Do this
+        2. Then do this
+        3. Then issue appears
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Expected Behavior"
+      placeholder: "What should of happened?"
+  - type: input
+    id: crash-log
+    attributes:
+      label: "Crash Report / Log"
+      description: "Please use [gist](https://gist.github.com/) or another paste site and provide an accessable link"
+    

@@ -52,10 +52,11 @@ body:
     id: confirmations
     attributes:
       label: "Confirmation Checkboxes"
+      description: "3rd Party Clients do not include Instance Managers aka 'Launchers' (eg. Modrinth, Curseforge, ATLauncher, Prism")
       options:
         - label: "I have confirmed that this issue can be reproduced with minimal setup (Not a large Modpack)"
           required: true
-        - label: "I am NOT using a 3rd Party Client Launcher (Feather Client, Luna Client, etc)"
+        - label: "I am NOT using a 3rd Party Client (Feather Client, Luna Client, etc)"
           required: true
   - type: textarea
     id: bug-description

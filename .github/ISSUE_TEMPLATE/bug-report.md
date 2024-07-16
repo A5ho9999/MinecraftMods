@@ -1,10 +1,7 @@
----
 name: Bug Report
 about: Create a report
 labels: bug
 assignees: A5ho9999
----
-
 body:
   - type: dropdown
     id: mod-name

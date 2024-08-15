@@ -8,7 +8,6 @@ body:
     attributes:
       label: Mod name
       options:
-        - Select Mod
         - Brrrrock (Yeeterite)
         - Brrrrock+ (Yeeterite Extras)
         - CottageCraft Axolotls

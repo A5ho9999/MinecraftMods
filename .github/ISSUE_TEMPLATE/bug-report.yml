@@ -53,7 +53,7 @@ body:
     id: confirmations
     attributes:
       label: "Confirmation Checkboxes"
-      description: "3rd Party Clients do not include Instance Managers aka 'Launchers' (eg. Modrinth, Curseforge, ATLauncher, Prism)<br>Supported Versions can be found [here](https://github.com/A5ho9999/MinecraftMods?tab=readme-ov-file#supported-versions)"
+      description: "**3rd Party Clients do not include Instance Managers aka 'Launchers' (eg. Modrinth, Curseforge, ATLauncher, Prism)**<br><br>Supported Versions can be found [here](https://github.com/A5ho9999/MinecraftMods?tab=readme-ov-file#supported-versions)"
       options:
         - label: "I have checked the Supported Versions and confirmed this version is still supported"
           required: true

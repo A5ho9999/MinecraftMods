@@ -7,7 +7,7 @@ Current Minecraft Version: **1.21.1**
 
 ✔️ - Supported and Active
 
-✖️ - Supported but not receiving updates
+✖️ - Supported but not receiving updates (unless Major Bug, eg: A Duplication Glitch)
 
 ❌ - Not Supported
 

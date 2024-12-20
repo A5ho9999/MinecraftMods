@@ -15,12 +15,13 @@ Current Minecraft Version: **1.21.4**
 
 | Mod                                                                                    | 1.20.x | 1.21+ | 1.21.3 | 1.21.4
 | -------------------------------------------------------------------------------------- | :------------: | :-----: | :---: | :-----: |
-| [Brrrrock (Yeeterite)](https://modrinth.com/mod/yeeterite)                             | ✖️ | ✔️ | ✔️ | 🛠️ |
+| [Brrrrock (Yeeterite)](https://modrinth.com/mod/yeeterite)                             | ✖️ | ✔️ | ✔️ | ✔️ |
+| [Brrrrock+ (Yeeterite Extras)](https://modrinth.com/mod/yeeterite-extras)              | ✖️ | ✔️ | ✔️ | ✔️ |
 | [CottageCraft Axolotls](https://modrinth.com/mod/cottagecraft-axolotls)                | ✖️ | ✔️ | 🛠️ | 🛠️ |
 | [CottageCraft Blocks](https://modrinth.com/mod/cottagecraft-mod)                       | ✖️ | ✔️ | 🛠️ | 🛠️ |
 | [CottageCraft Festive Easter Eggs](https://modrinth.com/mod/cottagecraft-festive-eggs) | ✖️ | ✔️ | 🛠️ | 🛠️ |
 | [Explosive Party](https://modrinth.com/mod/explosive-party)                            | ✖️ | ✔️ | ✔️ | ✔️ |
-| [Glass Carpet](https://modrinth.com/mod/glass-carpet)                                  | ✖️ | ✔️ | ✔️ | 🛠️ |
+| [Glass Carpet](https://modrinth.com/mod/glass-carpet)                                  | ✖️ | ✔️ | ✔️ | ✔️ |
 | [Hopper The Hedgehog](https://modrinth.com/mod/hopper-the-hedgehog)                    | ✖️ | ✔️ | ✔️ | ✔️ |
 | [Loom GUI Remastered](https://modrinth.com/mod/loom-gui-remastered)                    | ✖️ | ✔️ | ✔️ | ✔️ |
 | [Party Flames](https://modrinth.com/mod/party-flames)                                  | ❌ | ✔️ | 🛠️ | 🛠️ |

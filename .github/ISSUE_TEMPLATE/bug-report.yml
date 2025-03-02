@@ -8,6 +8,7 @@ body:
     attributes:
       label: Mod name
       options:
+        - Adventure Bags (Loot Bags)
         - Brrrrock (Yeeterite)
         - Brrrrock+ (Yeeterite Extras)
         - CottageCraft Axolotls

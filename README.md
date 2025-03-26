@@ -13,7 +13,7 @@ Current Minecraft Version: **1.21.5**
 
 ❌ - Not Supported
 
-| Mod                                                                                    | 1.20.x | 1.21+ | 1.21.3 | 1.21.4 | 1.21.4
+| Mod                                                                                    | 1.20.x | 1.21+ | 1.21.3 | 1.21.4 | 1.21.5
 | -------------------------------------------------------------------------------------- | :------------: | :-----: | :---: | :-----: | :-----: |
 | [Adventure Bags (Loot Bags)](https://modrinth.com/mod/adventure-bags)                  | ✔️ | ✔️ | ✔️ | ✔️ | 🛠️ |
 | [Brrrrock (Yeeterite)](https://modrinth.com/mod/yeeterite)                             | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |

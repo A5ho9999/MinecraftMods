@@ -30,7 +30,7 @@ Current Minecraft Version: **1.21.5**
 | [Smelter The Hedgehog](https://modrinth.com/mod/smelter-the-hedgehog)                  | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |
 | [SpongeSucc (Lava Sponge)](https://modrinth.com/mod/spongesucc)                        | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |
 | [Stacks Are Stacks](https://modrinth.com/mod/stacks-are-stacks)                        | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |
-| [Stonecutter GUI Remastered](https://modrinth.com/mod/stonecutter-gui-remastered)      | ✖️ | ✖️ | ✔️ | ✔️ | ✔️ |
+| [Stonecutter GUI Remastered](https://modrinth.com/mod/stonecutter-gui-remastered)      | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Totem Party Popper](https://modrinth.com/mod/totem-party-popper)                      | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |
 | [WhereWaterGo](https://modrinth.com/mod/wwg)                                           | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |
 

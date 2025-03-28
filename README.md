@@ -19,7 +19,7 @@ Current Minecraft Version: **1.21.5**
 | [Brrrrock (Yeeterite)](https://modrinth.com/mod/yeeterite)                             | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
 | [Brrrrock+ (Yeeterite Extras)](https://modrinth.com/mod/yeeterite-extras)              | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
 | [CottageCraft Axolotls](https://modrinth.com/mod/cottagecraft-axolotls)                | ✖️ | ✖️ | 🛠️ | 🛠️ | 🛠️ |
-| [CottageCraft Blocks](https://modrinth.com/mod/cottagecraft-mod)                       | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
+| [CottageCraft Blocks](https://modrinth.com/mod/cottagecraft-mod)                       | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
 | [CottageCraft Festive Easter Eggs](https://modrinth.com/mod/cottagecraft-festive-eggs) | ✖️ | ✖️ | 🛠️ | 🛠️ | 🛠️ |
 | [Explosive Party](https://modrinth.com/mod/explosive-party)                            | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |
 | [Glass Carpet](https://modrinth.com/mod/glass-carpet)                                  | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |

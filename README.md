@@ -22,7 +22,8 @@ Current Minecraft Version: **1.21.5**
 | [CottageCraft Blocks](https://modrinth.com/mod/cottagecraft-mod)                       | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
 | [CottageCraft Festive Easter Eggs](https://modrinth.com/mod/cottagecraft-festive-eggs) | ✖️ | ✖️ | 🛠️ | 🛠️ | 🛠️ |
 | [Explosive Party](https://modrinth.com/mod/explosive-party)                            | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |
-| [Glass Carpet](https://modrinth.com/mod/glass-carpet)                                  | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |
+| [FOV Toggle](https://modrinth.com/mod/fov-toggle)                                      | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Glass Carpet](https://modrinth.com/mod/glass-carpet)                                  | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hopper The Hedgehog](https://modrinth.com/mod/hopper-the-hedgehog)                    | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |
 | [Loom GUI Remastered](https://modrinth.com/mod/loom-gui-remastered)                    | ✖️ | ✖️ | ✔️ | ✔️ | ✔️ |
 | [Party Flames](https://modrinth.com/mod/party-flames)                                  | ❌ | ✖️ | ✔️ | ✔️ | 🛠️ |

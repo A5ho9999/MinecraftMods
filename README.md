@@ -24,15 +24,15 @@ Current Minecraft Version: **1.21.5**
 | [Explosive Party](https://modrinth.com/mod/explosive-party)                            | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |
 | [FOV Toggle](https://modrinth.com/mod/fov-toggle)                                      | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Glass Carpet](https://modrinth.com/mod/glass-carpet)                                  | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Hopper The Hedgehog](https://modrinth.com/mod/hopper-the-hedgehog)                    | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |
+| [Hopper The Hedgehog](https://modrinth.com/mod/hopper-the-hedgehog)                    | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Loom GUI Remastered](https://modrinth.com/mod/loom-gui-remastered)                    | ✖️ | ✖️ | ✔️ | ✔️ | ✔️ |
 | [Party Flames](https://modrinth.com/mod/party-flames)                                  | ❌ | ✖️ | ✔️ | ✔️ | 🛠️ |
 | [Party Spores](https://modrinth.com/mod/party-spores)                                  | ✖️ | ✖️ | ✔️ | ✔️ | 🛠️ |
 | [Smelter The Hedgehog](https://modrinth.com/mod/smelter-the-hedgehog)                  | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |
 | [SpongeSucc (Lava Sponge)](https://modrinth.com/mod/spongesucc)                        | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |
-| [Stacks Are Stacks](https://modrinth.com/mod/stacks-are-stacks)                        | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |
+| [Stacks Are Stacks](https://modrinth.com/mod/stacks-are-stacks)                        | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Stonecutter GUI Remastered](https://modrinth.com/mod/stonecutter-gui-remastered)      | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [Totem Party Popper](https://modrinth.com/mod/totem-party-popper)                      | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |
+| [Totem Party Popper](https://modrinth.com/mod/totem-party-popper)                      | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [WhereWaterGo](https://modrinth.com/mod/wwg)                                           | ✖️ | ✔️ | ✔️ | ✔️ | 🛠️ |
 
 ### Outdated Versions

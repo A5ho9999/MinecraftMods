@@ -26,6 +26,7 @@ Current Minecraft Version: **1.21.5**
 | [Glass Carpet](https://modrinth.com/mod/glass-carpet)                                  | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hopper The Hedgehog](https://modrinth.com/mod/hopper-the-hedgehog)                    | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Loom GUI Remastered](https://modrinth.com/mod/loom-gui-remastered)                    | ✖️ | ✖️ | ✔️ | ✔️ | ✔️ |
+| [Party Cacti](https://modrinth.com/mod/party-cacti)                                    | ❌ | ❌ | ❌ | ❌ | ✔️ |
 | [Party Flames](https://modrinth.com/mod/party-flames)                                  | ❌ | ✖️ | ✔️ | ✔️ | ✔️ |
 | [Party Spores](https://modrinth.com/mod/party-spores)                                  | ✖️ | ✖️ | ✔️ | ✔️ | ✔️ |
 | [Smelter The Hedgehog](https://modrinth.com/mod/smelter-the-hedgehog)                  | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ |

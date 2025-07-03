@@ -15,13 +15,13 @@ Current Minecraft Version: **1.21.7**
 
 | Mod                                                                                    | 1.20.x | 1.21+ | 1.21.3 | 1.21.4 | 1.21.5 | 1.21.6, 7 |
 | -------------------------------------------------------------------------------------- | :------------: | :-----: | :---: | :-----: | :-----: | :-----: |
-| [Adventure Bags (Loot Bags)](https://modrinth.com/mod/adventure-bags)                  | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 🛠️ |
-| [Brrrrock (Yeeterite)](https://modrinth.com/mod/yeeterite)                             | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ | 🛠️ |
-| [Brrrrock+ (Yeeterite Extras)](https://modrinth.com/mod/yeeterite-extras)              | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ | 🛠️ |
+| [Adventure Bags (Loot Bags)](https://modrinth.com/mod/adventure-bags)                  | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Brrrrock (Yeeterite)](https://modrinth.com/mod/yeeterite)                             | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ | ✔️ |
+| [Brrrrock+ (Yeeterite Extras)](https://modrinth.com/mod/yeeterite-extras)              | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ | ✔️ |
 | [CottageCraft Axolotls](https://modrinth.com/mod/cottagecraft-axolotls)                | ✖️ | ✖️ | 🛠️ | 🛠️ | 🛠️ | 🛠️ |
 | [CottageCraft Blocks](https://modrinth.com/mod/cottagecraft-mod)                       | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ | ✔️ |
 | [CottageCraft Festive Easter Eggs](https://modrinth.com/mod/cottagecraft-festive-eggs) | ✖️ | ✖️ | 🛠️ | 🛠️ | 🛠️ | 🛠️ |
-| [Explosive Party](https://modrinth.com/mod/explosive-party)                            | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ | 🛠️ |
+| [Explosive Party](https://modrinth.com/mod/explosive-party)                            | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [FOV Toggle](https://modrinth.com/mod/fov-toggle)                                      | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Glass Carpet](https://modrinth.com/mod/glass-carpet)                                  | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hopper The Hedgehog](https://modrinth.com/mod/hopper-the-hedgehog)                    | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
@@ -30,7 +30,7 @@ Current Minecraft Version: **1.21.7**
 | [Party Flames](https://modrinth.com/mod/party-flames)                                  | ❌ | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Party Spores](https://modrinth.com/mod/party-spores)                                  | ✖️ | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Smelter The Hedgehog](https://modrinth.com/mod/smelter-the-hedgehog)                  | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [SpongeSucc (Lava Sponge)](https://modrinth.com/mod/spongesucc)                        | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ | 🛠️ |
+| [SpongeSucc (Lava Sponge)](https://modrinth.com/mod/spongesucc)                        | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Stacks Are Stacks](https://modrinth.com/mod/stacks-are-stacks)                        | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Stonecutter GUI Remastered](https://modrinth.com/mod/stonecutter-gui-remastered)      | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Totem Party Popper](https://modrinth.com/mod/totem-party-popper)                      | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |

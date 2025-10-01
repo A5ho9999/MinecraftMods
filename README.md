@@ -20,11 +20,11 @@ Current Minecraft Version: **1.21.9**
 | [Brrrrock+ (Yeeterite Extras)](https://modrinth.com/mod/yeeterite-extras)              | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
 | [CottageCraft Axolotls](https://modrinth.com/mod/cottagecraft-axolotls)                | ✖️ | 🛠️ | 🛠️ | 🛠️ | 🛠️ | 🛠️ |
 | [CottageCraft Blocks](https://modrinth.com/mod/cottagecraft-mod)                       | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ |
-| [CottageCraft Festive Easter Eggs](https://modrinth.com/mod/cottagecraft-festive-eggs) | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
+| [CottageCraft Festive Easter Eggs](https://modrinth.com/mod/cottagecraft-festive-eggs) | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ |
 | [Explosive Party](https://modrinth.com/mod/explosive-party)                            | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
 | [FOV Toggle](https://modrinth.com/mod/fov-toggle)                                      | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
 | [Glass Carpet](https://modrinth.com/mod/glass-carpet)                                  | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
-| [Hopper The Hedgehog](https://modrinth.com/mod/hopper-the-hedgehog)                    | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
+| [Hopper The Hedgehog](https://modrinth.com/mod/hopper-the-hedgehog)                    | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ |
 | [Loom GUI Remastered](https://modrinth.com/mod/loom-gui-remastered)                    | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
 | [Note Block Tuner](https://modrinth.com/mod/note-block-tuner)                          | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
 | [Party Cacti](https://modrinth.com/mod/party-cacti)                                    | ❌ | ❌ | ❌ | ✖️ | ✔️ | 🛠️ |
@@ -34,7 +34,7 @@ Current Minecraft Version: **1.21.9**
 | [SpongeSucc (Lava Sponge)](https://modrinth.com/mod/spongesucc)                        | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
 | [Stacks Are Stacks](https://modrinth.com/mod/stacks-are-stacks)                        | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
 | [Stonecutter GUI Remastered](https://modrinth.com/mod/stonecutter-gui-remastered)      | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
-| [Totem Party Popper](https://modrinth.com/mod/totem-party-popper)                      | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
+| [Totem Party Popper](https://modrinth.com/mod/totem-party-popper)                      | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ |
 | [WhereWaterGo](https://modrinth.com/mod/wwg)                                           | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
 
 ### Outdated Versions

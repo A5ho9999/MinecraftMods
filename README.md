@@ -16,6 +16,7 @@ Current Minecraft Version: **1.21.10**
 | Mod                                                                                    | 1.21.0 - 2 | 1.21.3 | 1.21.4 | 1.21.5 | 1.21.6 - 8 | 1.21.9 - 10 |
 | -------------------------------------------------------------------------------------- | :------------: | :-----: | :---: | :-----: | :-----: | :-----: |
 | [Adventure Bags (Loot Bags)](https://modrinth.com/mod/adventure-bags)                  | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
+| [Area Sign Alerts](https://modrinth.com/mod/area-sign-alerts)                          | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ |
 | [Brrrrock (Yeeterite)](https://modrinth.com/mod/yeeterite)                             | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
 | [Brrrrock+ (Yeeterite Extras)](https://modrinth.com/mod/yeeterite-extras)              | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ |
 | [CottageCraft Axolotls](https://modrinth.com/mod/cottagecraft-axolotls)                | ✖️ | 🛠️ | 🛠️ | 🛠️ | 🛠️ | 🛠️ |

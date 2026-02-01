@@ -13,7 +13,7 @@ Current Minecraft Version: **1.21.10**
 
 ❌ - Not Supported
 
-| Mod                                                                                    | 1.21.0 - 2 | 1.21.3 | 1.21.4 | 1.21.5 | 1.21.6 - 8 | 1.21.9 - 10 | 1.21.11 |
+| Mod                                                                                    | 1.21.0 - 2 | 1.21.3 | 1.21.4 | 1.21.5 | 1.21.6+ | 1.21.9+ | 1.21.11 |
 | -------------------------------------------------------------------------------------- | :------------: | :-----: | :---: | :-----: | :-----: | :-----: | :-----: |
 | [Adventure Bags (Loot Bags)](https://modrinth.com/mod/adventure-bags)                  | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ | 🛠️ |
 | [Area Sign Alerts](https://modrinth.com/mod/area-sign-alerts)                          | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ✔️ |
@@ -32,11 +32,11 @@ Current Minecraft Version: **1.21.10**
 | [Party Flames](https://modrinth.com/mod/party-flames)                                  | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
 | [Party Spores](https://modrinth.com/mod/party-spores)                                  | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
 | [Smelter The Hedgehog](https://modrinth.com/mod/smelter-the-hedgehog)                  | ✖️ | ✖️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| [SpongeSucc (Lava Sponge)](https://modrinth.com/mod/spongesucc)                        | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ | 🛠️ |
+| [SpongeSucc (Lava Sponge)](https://modrinth.com/mod/spongesucc)                        | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ | ✔️ |
 | [Stacks Are Stacks](https://modrinth.com/mod/stacks-are-stacks)                        | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
 | [Stonecutter GUI Remastered](https://modrinth.com/mod/stonecutter-gui-remastered)      | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
-| [Totem Party Popper](https://modrinth.com/mod/totem-party-popper)                      | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
-| [WhereWaterGo](https://modrinth.com/mod/wwg)                                           | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
+| [Totem Party Popper](https://modrinth.com/mod/totem-party-popper)                      | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
+| [WhereWaterGo](https://modrinth.com/mod/wwg)                                           | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
 
 ### Outdated Versions
 Any version not listed above is too old and you should stop using it.

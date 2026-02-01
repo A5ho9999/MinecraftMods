@@ -1,7 +1,7 @@
 # Supported Versions
 The current supported versions are as below. This will be updated as new Minecraft versions are released.
 
-Current Minecraft Version: **1.21.10**
+Current Minecraft Version: **1.21.11**
 > [!NOTE]
 > If the version doesn't match the latest released Minecraft version then the Mods haven't updated yet
 

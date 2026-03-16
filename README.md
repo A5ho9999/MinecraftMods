@@ -19,14 +19,14 @@ Current Minecraft Version: **1.21.11**
 | [Area Sign Alerts](https://modrinth.com/mod/area-sign-alerts)                          | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ✔️ |
 | [Brrrrock (Yeeterite)](https://modrinth.com/mod/yeeterite)                             | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ | ✔️ |
 | [Brrrrock+ (Yeeterite Extras)](https://modrinth.com/mod/yeeterite-extras)              | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
-| [CottageCraft Axolotls](https://modrinth.com/mod/cottagecraft-axolotls)                | ✖️ | 🛠️ | 🛠️ | 🛠️ | 🛠️ | 🛠️ | 🛠️ |
+| [CottageCraft Axolotls](https://modrinth.com/mod/cottagecraft-axolotls)                | ✖️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [CottageCraft Blocks](https://modrinth.com/mod/cottagecraft-mod)                       | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
-| [CottageCraft Festive Easter Eggs](https://modrinth.com/mod/cottagecraft-festive-eggs) | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ |
+| [CottageCraft Festive Easter Eggs](https://modrinth.com/mod/cottagecraft-festive-eggs) | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
 | [Explosive Party](https://modrinth.com/mod/explosive-party)                            | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
 | [FOV Toggle](https://modrinth.com/mod/fov-toggle)                                      | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
 | [Glass Carpet](https://modrinth.com/mod/glass-carpet)                                  | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
 | [Hopper The Hedgehog](https://modrinth.com/mod/hopper-the-hedgehog)                    | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
-| [Loom GUI Remastered](https://modrinth.com/mod/loom-gui-remastered)                    | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | 🛠️ | 🛠️ |
+| [Loom GUI Remastered](https://modrinth.com/mod/loom-gui-remastered)                    | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
 | [Note Block Tuner](https://modrinth.com/mod/note-block-tuner)                          | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |
 | [Party Cacti](https://modrinth.com/mod/party-cacti)                                    | ❌ | ❌ | ❌ | ✖️ | ✖️ | ✔️ | ✔️ |
 | [Party Flames](https://modrinth.com/mod/party-flames)                                  | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✔️ | ✔️ |

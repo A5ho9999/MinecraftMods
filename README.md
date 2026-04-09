@@ -15,11 +15,11 @@ Current Minecraft Version: **1.26.1 (26.1)**
 
 | Mod                                                                                    | 1.21.11 | 26.1 |
 | -------------------------------------------------------------------------------------- | :-----: | :-----: |
-| [Adventure Bags (Loot Bags)](https://modrinth.com/mod/adventure-bags)                  | ✖️ | 🛠️ |
+| [Adventure Bags (Loot Bags)](https://modrinth.com/mod/adventure-bags)                  | ✖️ | ✔️ |
 | [Area Sign Alerts](https://modrinth.com/mod/area-sign-alerts)                          | ✖️ | ✔️ |
 | [Brrrrock (Yeeterite)](https://modrinth.com/mod/yeeterite)                             | ✖️ | ✔️ |
 | [Brrrrock+ (Yeeterite Extras)](https://modrinth.com/mod/yeeterite-extras)              | ✖️ | ✔️ |
-| [CottageCraft Axolotls](https://modrinth.com/mod/cottagecraft-axolotls)                | ❌ | 🛠️ |
+| [CottageCraft Axolotls](https://modrinth.com/mod/cottagecraft-axolotls)                | ❌ | ✔️ |
 | [CottageCraft Blocks](https://modrinth.com/mod/cottagecraft-mod)                       | ✖️ | ✔️ |
 | [CottageCraft Festive Easter Eggs](https://modrinth.com/mod/cottagecraft-festive-eggs) | ✖️ | ✔️ |
 | [Explosive Party](https://modrinth.com/mod/explosive-party)                            | ✖️ | ✔️ |

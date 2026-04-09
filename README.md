@@ -3,7 +3,8 @@ The current supported versions are as below. This will be updated as new Minecra
 
 Current Minecraft Version: **1.26.1 (26.1)**
 > [!NOTE]
-> If the version doesn't match the latest released Minecraft version then the Mods haven't updated yet
+> If the version doesn't match the latest released Minecraft version then the Mods haven't updated yet.
+> <br>With new Minecraft versioning designed by idiots, versions won't be updated. If the mod works on 26.1, it will work on 26.1.x
 
 ✔️ - Supported and Active
 

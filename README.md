@@ -28,6 +28,7 @@ Current Minecraft Version: **1.26.1 (26.1)**
 | [Glass Carpet](https://modrinth.com/mod/glass-carpet)                                  | ✖️ | ✔️ |
 | [Hopper The Hedgehog](https://modrinth.com/mod/hopper-the-hedgehog)                    | ✖️ | ✔️ |
 | [Loom GUI Remastered](https://modrinth.com/mod/loom-gui-remastered)                    | ✖️ | ✔️ |
+| [Modern Advancement Screen](https://modrinth.com/mod/modern-advancement-screen)        | ❌ | ✔️ |
 | [Note Block Tuner](https://modrinth.com/mod/note-block-tuner)                          | ✖️ | ✔️ |
 | [Party Cacti](https://modrinth.com/mod/party-cacti)                                    | ✖️ | ✔️ |
 | [Party Flames](https://modrinth.com/mod/party-flames)                                  | ✖️ | ✔️ |

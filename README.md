@@ -33,6 +33,7 @@ Current Minecraft Version: **1.26.1 (26.1)**
 | [Party Cacti](https://modrinth.com/mod/party-cacti)                                    | ✖️ | ✔️ |
 | [Party Flames](https://modrinth.com/mod/party-flames)                                  | ✖️ | ✔️ |
 | [Party Spores](https://modrinth.com/mod/party-spores)                                  | ✖️ | ✔️ |
+| [Quit Minigame](https://modrinth.com/mod/quit-minigame)                                | ❌ | ✔️ |
 | [Smelter The Hedgehog](https://modrinth.com/mod/smelter-the-hedgehog)                  | ✖️ | ✔️ |
 | [SpongeSucc (Lava Sponge)](https://modrinth.com/mod/spongesucc)                        | ✖️ | ✔️ |
 | [Stacks Are Stacks](https://modrinth.com/mod/stacks-are-stacks)                        | ✖️ | ✔️ |

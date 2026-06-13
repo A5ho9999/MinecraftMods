@@ -1,4 +1,4 @@
-# Custom Mod License
+# Custom License
 
 ---
 

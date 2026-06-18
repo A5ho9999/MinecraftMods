@@ -30,9 +30,9 @@ Current Minecraft Version: **1.26.2 (26.2)**
 | [Loom GUI Remastered](https://modrinth.com/mod/loom-gui-remastered)                    | ✖️ | ✔️ | ✔️ |
 | [Modern Advancement Screen](https://modrinth.com/mod/modern-advancement-screen)        |  ❔ | ✔️ | ✔️ |
 | [Note Block Tuner](https://modrinth.com/mod/note-block-tuner)                          | ✖️ | ✔️ | ✔️ |
-| [Party Cacti](https://modrinth.com/mod/party-cacti)                                    | ✖️ | ✔️ | 🛠️ |
-| [Party Flames](https://modrinth.com/mod/party-flames)                                  | ✖️ | ✔️ | 🛠️ |
-| [Party Spores](https://modrinth.com/mod/party-spores)                                  | ✖️ | ✔️ | 🛠️ |
+| [Party Cacti](https://modrinth.com/mod/party-cacti)                                    | ✖️ | ✔️ | ✔️ |
+| [Party Flames](https://modrinth.com/mod/party-flames)                                  | ✖️ | ✔️ | ✔️ |
+| [Party Spores](https://modrinth.com/mod/party-spores)                                  | ✖️ | ✔️ | ✔️ |
 | [Quit Minigame](https://modrinth.com/mod/quit-minigame)                                | ❌ | ✔️ | ✔️ |
 | [Smelter The Hedgehog](https://modrinth.com/mod/smelter-the-hedgehog)                  | ✖️ | ✔️ | 🛠️ |
 | [SpongeSucc (Lava Sponge)](https://modrinth.com/mod/spongesucc)                        | ✖️ | ✔️ | 🛠️ |

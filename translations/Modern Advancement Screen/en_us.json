@@ -5,6 +5,8 @@
   "key.modern-advancements.selection_cycle_back": "Previous Tracked Selection",
   "key.modern-advancements.requirement_cycle_forward": "Next Tracked Requirement",
   "key.modern-advancements.requirement_cycle_back": "Previous Tracked Requirement",
+  "key.modern-advancements.tracking_hud_settings": "Open Tracking HUD Settings",
+  "key.modern-advancements.toast_hud_settings": "Open Toast HUD Settings",
 
   "gui.advancements.text.completed": "✔ Completed",
   "gui.advancements.text.incomplete": "✖ Incomplete",
@@ -23,15 +25,15 @@
   "gui.advancements.text.rewards": "Completion Rewards:",
   "gui.advancements.text.popup.close_hint": "Click anywhere to close",
   "gui.advancements.text.screenshot": "Trigger Screenshot",
+  "gui.advancements.text.guide": "GUIDE",
+  "gui.advancements.text.blur.reveal_hint": "Click to reveal content",
 
   "gui.advancements.text.tracker.edit": "Edit Tracking HUD",
   "gui.advancements.text.tracker.anchor_text": "Anchor Point",
-  "gui.advancements.text.tracker.anchor": "Anchor: %s",
-  "gui.advancements.text.tracker.offset_new": "New Offset: %s, %s",
-  "gui.advancements.text.tracker.offset_old": "Old Offset: %s, %s",
-  "gui.advancements.text.tracker.old_anchor": "Old Anchor: %s",
   "gui.advancements.text.tracker.text_1": "Drag preview to reposition",
   "gui.advancements.text.tracker.text_2": "Click anchor to snap & reset offsets",
+  "gui.advancements.text.tracker.size": "Size",
+  "gui.advancements.text.tracker.mode": "Display",
 
   "gui.advancements.text.toast.edit": "Edit Toast Announcement",
   "gui.advancements.text.toast.position": "Position",
@@ -66,6 +68,8 @@
   "gui.advancements.config.take_screenshots": "%s Take Screenshots on Advancements",
   "gui.advancements.config.match_screen": "%s Screenshots Match Screen Size",
   "gui.advancements.config.layout_mode": "Layout Mode",
+  "gui.advancements.config.blur_description": "%s Description Content Spoiler",
+  "gui.advancements.config.blur_requirements": "%s Requirement Content Spoiler",
 
   "gui.advancements.hud.edit.reset": "Reset",
   "gui.advancements.hud.edit.default": "Default",
@@ -74,6 +78,13 @@
 
   "gui.advancements.stats.title": "Advancement Statistics",
   "gui.advancements.stats.unknown": "(?)",
+
+  "gui.advancements.text.tracker.option.small": "Small",
+  "gui.advancements.text.tracker.option.medium": "Medium",
+  "gui.advancements.text.tracker.option.large": "Large",
+  "gui.advancements.text.tracker.option.normal": "Normal",
+  "gui.advancements.text.tracker.option.compact": "Compact",
+  "gui.advancements.text.tracker.option.detailed": "Expanded",
 
   "gui.advancements.text.toast.label.size": "Size",
   "gui.advancements.text.toast.label.animation": "Animation",

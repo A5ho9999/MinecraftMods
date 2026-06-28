@@ -16,17 +16,17 @@ Current Minecraft Version: **1.26.2 (26.2)**
 
 | Mod                                                                                    | 1.21.11 | 26.1 | 26.2 |
 | -------------------------------------------------------------------------------------- | :-----: | :-----: | :-----: |
-| [Adventure Bags (Loot Bags)](https://modrinth.com/mod/adventure-bags)                  | ✖️ | ✔️ | 🛠️ |
+| [Adventure Bags (Loot Bags)](https://modrinth.com/mod/adventure-bags)                  | ✖️ | ✔️ | ✔️ |
 | [Area Sign Alerts](https://modrinth.com/mod/area-sign-alerts)                          | ✖️ | ✔️ | ✔️ |
-| [Brrrrock (Yeeterite)](https://modrinth.com/mod/yeeterite)                             | ✖️ | ✔️ | 🛠️ |
-| [Brrrrock+ (Yeeterite Extras)](https://modrinth.com/mod/yeeterite-extras)              | ✖️ | ✔️ | 🛠️ |
+| [Brrrrock (Yeeterite)](https://modrinth.com/mod/yeeterite)                             | ✖️ | ✔️ | ✔️ |
+| [Brrrrock+ (Yeeterite Extras)](https://modrinth.com/mod/yeeterite-extras)              | ✖️ | ✔️ | ✔️ |
 | [CottageCraft Axolotls](https://modrinth.com/mod/cottagecraft-axolotls)                | ❌ | ✔️ | ✔️ |
 | [CottageCraft Blocks](https://modrinth.com/mod/cottagecraft-mod)                       | ✖️ | ✔️ | ✔️ |
 | [CottageCraft Festive Easter Eggs](https://modrinth.com/mod/cottagecraft-festive-eggs) | ✖️ | ✔️ | ✔️ |
-| [Explosive Party](https://modrinth.com/mod/explosive-party)                            | ✖️ | ✔️ | 🛠️ |
+| [Explosive Party](https://modrinth.com/mod/explosive-party)                            | ✖️ | ✔️ | ✔️ |
 | [FOV Toggle](https://modrinth.com/mod/fov-toggle)                                      | ✖️ | ✔️ | ✔️ |
 | [Glass Carpet](https://modrinth.com/mod/glass-carpet)                                  | ✖️ | ✔️ | ✔️ |
-| [Hopper The Hedgehog](https://modrinth.com/mod/hopper-the-hedgehog)                    | ✖️ | ✔️ | 🛠️ |
+| [Hopper The Hedgehog](https://modrinth.com/mod/hopper-the-hedgehog)                    | ✖️ | ✔️ | ✔️ |
 | [Loom GUI Remastered](https://modrinth.com/mod/loom-gui-remastered)                    | ✖️ | ✔️ | ✔️ |
 | [Modern Advancement Screen](https://modrinth.com/mod/modern-advancement-screen)        |  ❔ | ✔️ | ✔️ |
 | [Note Block Tuner](https://modrinth.com/mod/note-block-tuner)                          | ✖️ | ✔️ | ✔️ |
@@ -34,12 +34,12 @@ Current Minecraft Version: **1.26.2 (26.2)**
 | [Party Flames](https://modrinth.com/mod/party-flames)                                  | ✖️ | ✔️ | ✔️ |
 | [Party Spores](https://modrinth.com/mod/party-spores)                                  | ✖️ | ✔️ | ✔️ |
 | [Quit Minigame](https://modrinth.com/mod/quit-minigame)                                | ❌ | ✔️ | ✔️ |
-| [Smelter The Hedgehog](https://modrinth.com/mod/smelter-the-hedgehog)                  | ✖️ | ✔️ | 🛠️ |
-| [SpongeSucc (Lava Sponge)](https://modrinth.com/mod/spongesucc)                        | ✖️ | ✔️ | 🛠️ |
-| [Stacks Are Stacks](https://modrinth.com/mod/stacks-are-stacks)                        | ✖️ | ✔️ | 🛠️ |
+| [Smelter The Hedgehog](https://modrinth.com/mod/smelter-the-hedgehog)                  | ✖️ | ✔️ | ✔️ |
+| [SpongeSucc (Lava Sponge)](https://modrinth.com/mod/spongesucc)                        | ✖️ | ✔️ | ✔️ |
+| [Stacks Are Stacks](https://modrinth.com/mod/stacks-are-stacks)                        | ✖️ | ✔️ | ✔️ |
 | [Stonecutter GUI Remastered](https://modrinth.com/mod/stonecutter-gui-remastered)      | ✖️ | ✔️ | ✔️ |
-| [Totem Party Popper](https://modrinth.com/mod/totem-party-popper)                      | ✖️ | ✔️ | 🛠️ |
-| [WhereWaterGo](https://modrinth.com/mod/wwg)                                           | ✖️ | ✔️ | 🛠️ |
+| [Totem Party Popper](https://modrinth.com/mod/totem-party-popper)                      | ✖️ | ✔️ | ✔️ |
+| [WhereWaterGo](https://modrinth.com/mod/wwg)                                           | ✖️ | ✔️ | ✔️ |
 
 ### Outdated Versions
 Any version not listed above is too old and you should stop using it.

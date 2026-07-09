@@ -92,4 +92,8 @@ body:
     attributes:
       label: "Crash Report / Log"
       description: "Please use [gist](https://gist.github.com/) or another paste site and provide an accessable link"
-    
+  - type: textarea
+    id: mod-list
+    attributes:
+      label: "Mod List"
+      placeholder: "The list of mods being used (Found via console or log file)"

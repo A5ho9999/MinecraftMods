@@ -89,9 +89,9 @@ body:
       placeholder: "What should of happened?"
   - type: input
     id: crash-log
+    required: true
     attributes:
       label: "Crash Report / Log" 
-      required: true
       description: "Please use [gist](https://gist.github.com/) or another paste site and provide an accessable link"
   - type: textarea
     id: mod-list

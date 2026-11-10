@@ -14,7 +14,7 @@ Current Minecraft Version: **1.26.3 (26.3)**
 
 ❌ - Not Supported
 
-| Mod                                                                                    | 1.21.11 | 26.1 | 26.2 | 26.2 |
+| Mod                                                                                    | 1.21.11 | 26.1 | 26.2 | 26.3 |
 | -------------------------------------------------------------------------------------- | :-----: | :-----: | :-----: | :-----: |
 | [Adventure Bags (Loot Bags)](https://modrinth.com/mod/adventure-bags)                  | ✖️ | ✖️ | ✖️ | ✔️ |
 | [Area Sign Alerts](https://modrinth.com/mod/area-sign-alerts)                          | ✖️ | ✖️ | ✖️ | ✔️ |

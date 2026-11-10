@@ -27,6 +27,7 @@ Current Minecraft Version: **1.26.3 (26.3)**
 | [FOV Toggle](https://modrinth.com/mod/fov-toggle)                                      | ✖️ | ✖️ | ✖️ | ✔️ |
 | [Glass Carpet](https://modrinth.com/mod/glass-carpet)                                  | ✖️ | ✖️ | ✖️ | ✔️ |
 | [Hopper The Hedgehog](https://modrinth.com/mod/hopper-the-hedgehog)                    | ✖️ | ✖️ | ✖️ | ✔️ |
+| [Le Sieve](https://modrinth.com/mod/le-sieve)                                          | ✖️ | ✖️ | ✖️ | ✔️ |
 | [Loom GUI Remastered](https://modrinth.com/mod/loom-gui-remastered)                    | ✖️ | ✖️ | ✖️ | ✔️ |
 | [Modern Advancement Screen](https://modrinth.com/mod/modern-advancement-screen)        |  ❔ | ✖️ | ✖️ | ✔️ |
 | [Note Block Tuner](https://modrinth.com/mod/note-block-tuner)                          | ✖️ | ✖️ | ✖️ | ✔️ |
